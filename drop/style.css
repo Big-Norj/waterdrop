@@ -1,0 +1,27 @@
+*{
+    margin-top: 40px;
+}
+.drop1{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(220deg, #affbff 10%, #009 100%);
+    border-radius: 50% 0% 50% 50%;
+    box-shadow: inset 10px -5px 2px 3px rgba(0, 0, 0, 0.1),
+    inset -15px -5px 2px 5px
+    rgba(255, 255, 255, 0.1);
+    transform: rotate(-45deg);
+}
+
+.drop{
+    width: 200px;
+    height: 200px;
+    background: linear-gradient(220deg, #d3d6d6 10%, rgb(230, 230, 236) 100%);
+    border-radius: 50% 0% 50% 50%;
+    box-shadow: inset -6px 6px 10px #484c55;
+    box-shadow: inset 2px 6px 10px #a1a3a0;
+    box-shadow: inset 40px -40px #9EA09C;
+    box-shadow: inset -20px 30px 16px #616263;
+    box-shadow: 9px -9px 20px #838383;
+    box-shadow: inset 20px -20px 22px #dbeaf0;
+    box-shadow: -40px 60px 32px #757778;
+}
